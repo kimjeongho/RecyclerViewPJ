@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="selector_normal">#00E000</drawable>
+    <drawable name="selector_pressed">#80303030</drawable>
+
+</resources>
